@@ -1,0 +1,11 @@
+# Ignore all
+*
+
+# Don't ignore directories
+!*/
+
+# Don't ignore C source code files
+!*.c
+
+# Do not ignore gitignore file
+!/.gitignore
