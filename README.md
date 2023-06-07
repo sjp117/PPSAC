@@ -1,11 +1,11 @@
-# C & Programming Study Codes
+# Programming & C Study Codes
 
-This repository contains my codes for working throught the book "Programming, Problem Solving, 
+This repository contains my codes for working throught parts of the book "Programming, Problem Solving, 
 and Abstraction with C" (Moffat, 2013). Each source files are either numbered by the
 exercise number from each chapter or with their own names from the case studies from the chapters.
 I did skip some exercises, so those source codes are missing.
 
-I followed along the COMP1917: Higher Computing (2008) Lecture by Richard Buckland from UNSW. A [playlist](https://youtube.com/playlist?list=PL6B940F08B9773B9F) of the lecture is avalible on the UNSW eLearning channel on YouTube.
+I followed along portions of COMP1917: Higher Computing (2008) Lecture by Richard Buckland from UNSW. A [playlist](https://youtube.com/playlist?list=PL6B940F08B9773B9F) of the lecture is avalible on the UNSW eLearning channel on YouTube.
 
 I reffered to the Comp1917 [outline](https://www.cse.unsw.edu.au/~cs1917/09s2/outline.html) to assertain the corresponding readings for each lecture. (This is not the outline for the exact course/section, and there may be discrepencies.)
 
